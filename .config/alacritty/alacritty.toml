@@ -1,0 +1,11 @@
+[colors.primary]
+background = "0x101010"
+foreground = "0xFFFFFF"
+
+[font]
+size = 13
+normal = { family = "FantasqueSansMNerdFontMono", style = "Regular" }
+
+[shell]
+program = "/usr/local/bin/fish"
+
